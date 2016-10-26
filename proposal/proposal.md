@@ -21,4 +21,13 @@ cannot.
 
 # Proposal
 
+We would like to implement and test a MLN against the "Heart Disease" data set
+from UCI (found here: http://archive.ics.uci.edu/ml/datasets/Heart+Disease). We
+would like to compare the results of that implementation against other more
+standard methods, such as a decision tree and a Bayesian network, to provide
+perspective into how well the model performs.
 
+It is our hope that during the research and implementation of the MLN, we will
+achieve better insight about these kinds of models, and that insight will lead
+to a novel alteration to the model or implementation detail that would be
+worthy of note.
